@@ -1,5 +1,16 @@
 # deprecated-plugins
 
+docker image refered to
+
+[![Latest Version](https://images.microbadger.com/badges/version/dogbutcat/docker-sshd-shadowsocks:4.1.0-v2ray.svg)](https://microbadger.com/images/dogbutcat/docker-sshd-shadowsocks:4.1.0-v2ray) ![Docker Pulls](https://img.shields.io/docker/pulls/dogbutcat/docker-sshd-shadowsocks)
+
+## CHANGELOG
+
+> 2020-01-09
+
+- UPDATE: v2ray binary version bump to 4.22.1 for compatible usage of my own docker image
+
+
 ## Why this repo created
 
 ehhh... Maybe for some unexpected reason, I can't tell the detail
